@@ -1,2 +1,2 @@
-#Generative Adverserial Networks for generating Astronomical images
-
+# Generative Adverserial Networks for generating Astronomical images
+ 
